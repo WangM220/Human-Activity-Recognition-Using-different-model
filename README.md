@@ -1,4 +1,4 @@
-Human-Activity-Recognition
+## Human-Activity-Recognition
 
 The dataset utilized in this project is available from the UCI Machine Learning Repository and consists of sensor data collected from a group of 30 volunteers performing six different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING). These actiwhile wearing a smartphone with embedded inertial sensors. 
 
